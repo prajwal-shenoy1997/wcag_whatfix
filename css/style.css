@@ -271,7 +271,9 @@ body:after {
   position: absolute;
   top: 0;
   width: 100%;
-  border-bottom: rgba(255, 255, 255, 0.7); }
+  border-bottom: rgba(255, 255, 255, 0.7);
+  padding-top: 15px;
+}
   .site-navbar .site-logo {
     position: relative;
     left: 0;
